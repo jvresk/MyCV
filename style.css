@@ -58,6 +58,12 @@
     border-radius: 30px;
 }
 
+.awards_div img:hover{
+    transform: scale(1.5);
+}
+
+
+
 .column{
     flex: 33%;
     padding: 5px;
@@ -84,6 +90,10 @@
     border-radius: 30px;
 }
 
+.technologies:hover{
+    transform: scale(1.5);
+}
+
 .hobbies_div{
     display: flex;
     margin: 5px;
@@ -93,6 +103,10 @@
     width: 400px;
     height: 300px;
     border-radius: 30px;
+}
+
+.hobbies_div img:hover{
+    transform: scale(1.5);
 }
 
 .hobbies h1{
